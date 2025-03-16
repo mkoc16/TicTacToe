@@ -1,6 +1,7 @@
 # TicTacToe
 
 #Überblick
+
 Dieses Projekt implementiert ein Tic-Tac-Toe-Spiel mit Netzwerkfunktionalität. Zwei Spieler können sich mit einem Server verbinden und gegeneinander spielen. 
 
 #Features
@@ -12,6 +13,7 @@ Dieses Projekt implementiert ein Tic-Tac-Toe-Spiel mit Netzwerkfunktionalität. 
 - **IP Adresse über ein File**  
 
 #Einrichtung
+
 1.Starte das Projekt mit JavaFX.
 
 2.Passe die Serveradresse in server.txt an.
