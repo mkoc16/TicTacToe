@@ -1,10 +1,10 @@
 # TicTacToe
 
-#Überblick
+# Überblick
 
 Dieses Projekt implementiert ein Tic-Tac-Toe-Spiel mit Netzwerkfunktionalität. Zwei Spieler können sich mit einem Server verbinden und gegeneinander spielen. 
 
-#Features
+# Features
 
 - **Benutzeroberfläche**
 - **GewinnerInnenErmittlung**  
@@ -12,7 +12,7 @@ Dieses Projekt implementiert ein Tic-Tac-Toe-Spiel mit Netzwerkfunktionalität. 
 - **2 SpielerInnen möglich über das Netzwerk**  
 - **IP Adresse über ein File**  
 
-#Einrichtung
+# Einrichtung
 
 1.Starte das Projekt mit JavaFX.
 
@@ -24,7 +24,7 @@ Dieses Projekt implementiert ein Tic-Tac-Toe-Spiel mit Netzwerkfunktionalität. 
 
 5.Öffne das gleiche Projekt erneut und starte HelloApplication nocheinmal, damit sich der Spieler 2 verbindet.
 
-#Spielablauf
+# Spielablauf
 
 1.Zwei Spieler verbinden sich mit dem Server.
 
